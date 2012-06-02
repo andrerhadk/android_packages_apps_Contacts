@@ -17,23 +17,23 @@
 <resources>
 
     <string-array name="entries_vm_button">
-        <item>Adicionar aos Contatos</item>
+        <item>Adicionar aos contatos</item>
         <item>SMS/MMS</item>
-        <item>Correio de Voz</item>
+        <item>Correio de voz</item>
     </string-array>
 
     <string-array name="view_contact_pic_sizes">
-        <item>Pequeno (Padrão)</item>
+        <item>Pequeno (padrão)</item>
         <item>Médio</item>
         <item>Grande</item>
-        <item>Muito Grande</item>
+        <item>Muito grande</item>
     </string-array>
 
     <string-array name="view_data_font_sizes">
-        <item>Pequeno (Padrão)</item>
+        <item>Pequeno (padrão)</item>
         <item>Médio</item>
         <item>Grande</item>
-        <item>Muito Grande</item>
+        <item>Muito grande</item>
     </string-array>
 
 </resources>
